@@ -1,2 +1,2 @@
-# goranhalvarsson-gmail.com
-Sitecore ARM Templates And Scripts
+# Sitecore ARM Templates And Scripts
+
